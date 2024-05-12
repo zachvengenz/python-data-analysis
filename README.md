@@ -4,3 +4,5 @@ Files in this repository are assignments done during a school course. Code comme
   - Datasets with categorical and quantitative variables.
 - tehtävä_2.ipynb
   - Time series analysis.
+- tehtävä_3.ipynb
+  - Using scikit-learn for regression and classifying.
